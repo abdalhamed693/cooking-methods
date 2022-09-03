@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 25px 80px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.navmark{
+ color: white;
+ text-decoration: none;
+}
+.createbtn{
+    color: white;
+    border: 1px solid whitesmoke;
+    text-decoration: none;
+    padding: 3px ;
+    text-align: center;
+}
+.other{
+    display: flex;
+    gap: 20px;
+}
